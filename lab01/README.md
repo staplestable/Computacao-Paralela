@@ -5,7 +5,7 @@
 ## Compilação e execução
  
  Para compilar e executar o programa certifique-se que o gcc está instalado em sua máquina e então use o comando: "gcc helloworld.c -o opt"
- em seguida abra o arquivo executavál "opt" gerado na pasta do código fonte.
+ e em seguida abra o arquivo executável "opt" gerado na pasta do código fonte.
 
 ## Saída
  
